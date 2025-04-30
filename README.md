@@ -1,6 +1,7 @@
 ## 目录
 ### React
   - [React 16 至 React 19 版本差异详解](https://github.com/Yueyanc/blog/issues/7)
+  - [为什么需要 React 服务器组件](https://sorrycc.com/why-react-server-components)
 
 ### 网络
   - [深入理解 OAuth 2.0 授权码模式](https://github.com/Yueyanc/blog/issues/5)
